@@ -1,4 +1,4 @@
-package ch.fhnw.oop2.module02.setrevisited;
+package oop2.module02.setrevisited;
 
 import oop2.module02.setrevisited.Library;
 import org.junit.jupiter.api.Test;

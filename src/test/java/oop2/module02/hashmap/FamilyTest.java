@@ -1,4 +1,4 @@
-package ch.fhnw.oop2.module02.hashmap;
+package oop2.module02.hashmap;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package ch.fhnw.oop2.module02.arrays;
+package oop2.module02.arrays;
 
 import org.junit.jupiter.api.Test;
 

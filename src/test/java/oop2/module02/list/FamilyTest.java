@@ -1,4 +1,4 @@
-package ch.fhnw.oop2.module02.list;
+package oop2.module02.list;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
